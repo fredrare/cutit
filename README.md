@@ -14,13 +14,13 @@ npm install --global cutit
 ## Homocut
 Cut the image in equally sized chunks
 
-### Params
+### Params
 - `-i`: What image do you want to cut?
 - `-o`: Where do you want to store the resulting images?
 - `-x`: How many vertical cuts do you want?
 - `-y`: How many horizontal cuts do you want?
 
-### Example
+### Example
 ```bash
 cutit homocut -x 2 -y 1 -i example.png
 
